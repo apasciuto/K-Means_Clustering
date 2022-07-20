@@ -1,17 +1,3 @@
----
-layout: post
-title:  "K-Means Clustering: NBA Players"
-cover: "/assets/media/nba/nba.png"
-permalink: /:categories/:year/:month/:day/K-Means-Clustering
-excerpt_separator: <!--end-->
-categories: projects
-date: 2017-09-17
----
-
-Segmenting NBA players into groups with similar traits.
-
-<!--end-->
-
 # NBA: Grouping Players with K-Means
 
 **Segmenting NBA players into groups with similar traits.**  
